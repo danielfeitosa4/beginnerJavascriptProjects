@@ -1,0 +1,44 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  color: rgb(41, 155, 248);
+  background-color: lightgray;
+  padding: 0.5rem;
+  box-shadow: 0px 7px 30px 3px rgba(0,0,0,0.75);
+  text-align: center;
+}
+
+.main {
+  height: 100vh;
+}
+
+.color-panel {
+  width: 40rem;
+  margin: 20rem auto;
+  text-align: center;
+}
+
+.color-panel p {
+  background-color: #000000;
+  padding: 1.5rem;
+  color: #ffffff;
+  border-radius: 1rem;
+  font-size: 2rem;
+}
+
+.color-panel span {
+  color: rgb(41, 155, 248);
+  font-weight: bolder;
+}
+
+.random-button {
+  background-color: transparent;
+  width: 10rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid #000000;
+  border-radius: 1rem;
+  color: white;
+}
