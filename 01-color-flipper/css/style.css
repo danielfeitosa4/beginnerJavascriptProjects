@@ -42,3 +42,13 @@ h1 {
   border-radius: 1rem;
   color: white;
 }
+
+@media (max-width: 700px) {
+  .color-panel{
+    width: 20rem;
+  }
+
+  .random-button {
+    width: 8rem;
+  }
+}
