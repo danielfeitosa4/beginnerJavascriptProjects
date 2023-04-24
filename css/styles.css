@@ -64,3 +64,26 @@
     width: 100vw;
   }
 }
+
+/* MAIN */
+body {
+  background-color: #E2E8EF;
+}
+
+#main{
+  padding: 5rem 0;
+}
+
+#main h2 {
+  margin: 0 0 1.38rem;
+}
+
+#main hr {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main .card {
+  margin-bottom: 4rem;
+}
