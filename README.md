@@ -8,7 +8,7 @@ Pesquisei e separei alguns projetos envolvendo lógica de programação para ini
 Me chamo Daniel Feitosa, atualmente sou formado em Análise e Desenvolvimento de Sistemas na UNINASSAU e estou cursando Arquitetura de Software na PUC Minas.
 ## ⌨️ Demonstração
 
-<img src="C:\Users\daniel.gama\Documents\beginnerJavascriptProjects\images\js.PNG" alt="javascript" title="javascript">
+<img src=".\images\js.PNG" alt="javascript" title="javascript">
 
 
 ## 🛠️ Stack utilizada
