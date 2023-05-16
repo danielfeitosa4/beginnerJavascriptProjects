@@ -1,5 +1,15 @@
 const randomButton = document.querySelector('#random-section')
 const allSections = document.querySelectorAll('.sec')
+const btnLeft = document.querySelector('.bi-arrow-left')
+const btnRight = document.querySelector('.bi-arrow-right')
+
+const toSpend = () => {
+  console.log('test')
+}
+
+btnLeft.addEventListener('click', () => {
+  toSpend()
+})
 
 const trade = () => {
   const loop = (Math.floor(Math.random() * 4))
